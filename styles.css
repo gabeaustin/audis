@@ -83,7 +83,7 @@ footer {
 }
 
 /* add media queries */
-@media (max-width: 600px) {
+@media (max-width: 600px), (max-device-width: 667px) {
   th, td {
     display: none;
   }
