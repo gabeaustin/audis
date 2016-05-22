@@ -74,7 +74,7 @@ td {
   text-align: center;
 }
 
-#go-back a:hover {
+#go-back a:hover, .test-drive-vid a:hover {
   color: #fff;
 }
 
@@ -90,9 +90,5 @@ footer {
 
   .audi-imgs {
     display: block;
-  }
-
-  iframe {
-    width: 75%;
   }
 }
