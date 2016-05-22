@@ -36,6 +36,10 @@ body {
   margin: 2em;
 }
 
+a:visited {
+  color: #e74c3c;
+}
+
 img {
   width: 60%;
 }
