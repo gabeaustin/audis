@@ -81,3 +81,18 @@ td {
 footer {
   text-align: center;
 }
+
+/* add media queries */
+@media (max-width: 600px) {
+  th, td {
+    display: none;
+  }
+
+  .audi-imgs {
+    display: block;
+  }
+
+  iframe {
+    width: 75%;
+  }
+}
