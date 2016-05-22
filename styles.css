@@ -61,6 +61,23 @@ td {
   text-align: center;
 }
 
+.test-drive-vid {
+  text-align: center;
+}
+
+#fav-audi-vid-info {
+  font-size: larger;
+  text-align: center;
+}
+
+#go-back {
+  text-align: center;
+}
+
+#go-back a:hover {
+  color: #fff;
+}
+
 footer {
   text-align: center;
 }
